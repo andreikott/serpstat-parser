@@ -1,0 +1,11 @@
+{
+  "name": "serpstat-parser",
+  "version": "1.0.0",
+  "dependencies": {
+    "puppeteer": "^2.1.0",
+    "fs.realpath": "~1.0.0"
+  },
+  "scripts": {
+    "start": "node serpstat-parser.js"
+  }
+}
